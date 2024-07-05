@@ -38,11 +38,15 @@ To use Accessibility Inspector, open Xcode and choose <a href="https://github.co
 
 <a href="https://developer.apple.com/documentation/uikit/accessibility_for_uikit/supporting_voiceover_in_your_app" target="_blank">Overview</a> of the VoiceOver tool. 
 
-#### Android: Accessibility Scanner (Googleplay), Talk Back, Swith Access, Voice Access
+#### Android: Accessibility Scanner (Googleplay), Jieshuo Screenreader, TalkBack, SwithAccess, VoiceAccess
 
 The Accessibility Scanner app scans your screen and suggests ways to improve the accessibility of your app. 
 
 <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor&pli=1">Link</a> to download the Accessibility Scanner.
+
+Jieshuo Screenreader is a Chinese-developed screen reader.
+
+<a href="https://accessibleandroid.com/jieshuo-screen-reader/">Link</a> to download the Jieshuo Screenreader.
 
 <a href="https://developer.android.com/guide/topics/ui/accessibility/testing">Description</a> of other Android tools, including:
 
