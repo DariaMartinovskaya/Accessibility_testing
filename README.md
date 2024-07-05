@@ -28,13 +28,26 @@ Axe DevTools for Web CLI is a command-line application for scanning web pages fo
 
 <a href="https://docs.deque.com/devtools-for-web/4/en/cli-home">Link</a> to Axe DevTools for Web CLI.
 
-#### XCode: Accessibility inspector
+#### IOS: XCode - Accessibility inspector
 
 Accessibility Inspector is used to display, query, and test accessibility information for the elements in the app’s view hierarchy.
 
 <a href="https://developer.apple.com/documentation/accessibility/accessibility-inspector#" target="_blank">Link</a> to the Accessibility Inspector Guide. 
 
 To use Accessibility Inspector, open Xcode and choose <a href="https://github.com/DariaMartinovskaya/XCode" target="_blank">XCode</a> > Open Developer Tool > Accessibility Inspector.
+
+#### Android: Accessibility Scanner (Googleplay), Talk Back, Swith Access, Voice Access
+
+The Accessibility Scanner app scans your screen and suggests ways to improve the accessibility of your app. 
+
+<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor&pli=1">Link</a> to download the Accessibility Scanner.
+
+<a href="https://developer.android.com/guide/topics/ui/accessibility/testing">Description</a> of other Android tools, including:
+
+- TalkBack is Android's built-in screen reader.
+- Switch Access lets users interact with Android-powered devices using a switch instead of the touch screen.
+- Voice Access lets users control an Android-powered device with spoken commands.
+
 
 ## Checklists
 
