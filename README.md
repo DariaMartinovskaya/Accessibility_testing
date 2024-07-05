@@ -8,7 +8,7 @@ Web accessibility evaluation tools are software programs or online services that
 
 <a href="https://www.w3.org/WAI/test-evaluate/tools/" target="_blank">Evaluation Tools Overview</a> - here you can find the information on more than 100 tools as well as the guidance on choosing tools.
 
-### WAVE Web Accessibility Evaluation Tools
+#### WAVE Web Accessibility Evaluation Tools
 
 WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. 
 
@@ -16,13 +16,13 @@ WAVE Chrome, Firefox, and Edge browser extensions are available for testing acce
 
 <a href="https://wave.webaim.org" target="_blank">Link</a> to download WAVE Browser Extensions.
 
-### Siteimprove Accessibility Platform
+#### Siteimprove Accessibility Platform
 
 Siteimprove Accessibility Platform is an enterprise-grade tool for evaluating website accessibility. It identifies issues, offers remediation guidance, and tracks improvements.
 
 <a href="https://www.siteimprove.com/product/inclusivity/">Link</a> to the Siteimprove Accessibility Platform.
 
-### Axe DevTools for Web CLI
+#### Axe DevTools for Web CLI
 
 Axe DevTools for Web CLI is a command-line application for scanning web pages for accessibility issues and for generating reports. 
 
@@ -36,25 +36,25 @@ Axe DevTools for Web CLI is a command-line application for scanning web pages fo
 
 ## Fundamental documents
 
-### Web Content Accessibility Guidelines (WCAG)
+#### Web Content Accessibility Guidelines (WCAG)
 
 Web Content Accessibility Guidelines (WCAG) 2.1 defines how to make Web content more accessible to people with disabilities.
 
 <a href="https://www.w3.org/TR/WCAG21/" target="_blank">Link</a> to WCAG.
 
-### IOS: Human Interface Guidelines (HIG)
+#### IOS: Human Interface Guidelines (HIG)
 
 Apple's HIG provides comprehensive guidance on designing accessible apps. The accessibility section offers insights into making apps usable by everyone.
 
 <a href="https://developer.apple.com/design/human-interface-guidelines/accessibility" target="_blank">Link</a> to the Apple Human Interface Guidelines - Accessibility Section.
 
-### Android: Material Design Guidelines
+#### Android: Material Design Guidelines
 
 Google’s Material Design provides a section on accessibility to help developers create accessible Android apps.
 
 <a href="https://m2.material.io/design/usability/accessibility.html" target="_blank">Link</a> to the Material Design Accessibility Guidelines. 
 
-### Local regulations
+#### Local regulations
 
 For example, European Accessibility Act (EAA): an EU directive ensuring digital accessibility across member states, and Section 508: a US federal law requiring government websites and digital content to be accessible.
 
