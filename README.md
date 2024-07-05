@@ -42,6 +42,18 @@ Web Content Accessibility Guidelines (WCAG) 2.1 defines how to make Web content 
 
 <a href="https://www.w3.org/TR/WCAG21/" target="_blank">Link</a> to WCAG.
 
+### IOS: Human Interface Guidelines (HIG)
+
+Apple's HIG provides comprehensive guidance on designing accessible apps. The accessibility section offers insights into making apps usable by everyone.
+
+<a href="https://developer.apple.com/design/human-interface-guidelines/accessibility" target="_blank">Link</a> to the Apple Human Interface Guidelines - Accessibility Section.
+
+### Android: Material Design Guidelines
+
+Google’s Material Design provides a section on accessibility to help developers create accessible Android apps.
+
+<a href="https://m2.material.io/design/usability/accessibility.html" target="_blank">Link</a> to the Material Design Accessibility Guidelines. 
+
 ### Local regulations
 
 For example, European Accessibility Act (EAA): an EU directive ensuring digital accessibility across member states, and Section 508: a US federal law requiring government websites and digital content to be accessible.
