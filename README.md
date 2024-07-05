@@ -28,13 +28,15 @@ Axe DevTools for Web CLI is a command-line application for scanning web pages fo
 
 <a href="https://docs.deque.com/devtools-for-web/4/en/cli-home">Link</a> to Axe DevTools for Web CLI.
 
-#### IOS: XCode - Accessibility inspector
+#### IOS: XCode - Accessibility inspector, VoiceOver
 
 Accessibility Inspector is used to display, query, and test accessibility information for the elements in the app’s view hierarchy.
 
 <a href="https://developer.apple.com/documentation/accessibility/accessibility-inspector#" target="_blank">Link</a> to the Accessibility Inspector Guide. 
 
 To use Accessibility Inspector, open Xcode and choose <a href="https://github.com/DariaMartinovskaya/XCode" target="_blank">XCode</a> > Open Developer Tool > Accessibility Inspector.
+
+<a href="https://developer.apple.com/documentation/uikit/accessibility_for_uikit/supporting_voiceover_in_your_app" target="_blank">Overview</a> of the VoiceOver tool. 
 
 #### Android: Accessibility Scanner (Googleplay), Talk Back, Swith Access, Voice Access
 
