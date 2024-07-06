@@ -113,4 +113,4 @@ In one of the first ADA website compliance lawsuits that established that access
 
 Massachusetts’ presiding judge ruled in favor of NAD, stating existing online services were not exempt from ADA requirements. This changed the way Netflix operates ever since. A host of other businesses also align their operation policies around this rule. NAD and Netflix reached a settlement agreement that would have Netflix provide closed captions to all of their online streaming content within a two-year period. Netflix also had to pay $755,000 in attorney fees and costs.
 
-<a href="https://www.whoisaccessible.com/guidelines/largest-web-accessibility-lawsuits/#6-million-national-federation-of-the-blind-v-target-corporation" target="_blank">Link to the content resource.</a>
+<a href="https://www.whoisaccessible.com/guidelines/largest-web-accessibility-lawsuits/#6-million-national-federation-of-the-blind-v-target-corporation" target="_blank">Link</a> to the content resource.
