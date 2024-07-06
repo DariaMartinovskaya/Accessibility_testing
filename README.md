@@ -2,6 +2,13 @@
 
 Accessibility testing is a type of software testing performed to ensure that websites, applications, and digital content are usable by people with a wide range of disabilities. This includes visual, auditory, physical, speech, cognitive, and neurological disabilities. The goal of accessibility testing is to identify and resolve barriers that might prevent people with disabilities from accessing or using digital products effectively.
 
+# Content
+- ### [Tools used for accessibility testing]()
+- ### [Checklists]()
+- ### [Fundamental documents]()
+- ### [Local regulations]()
+- ### [The largest web accessibility lawsuits]()
+
 ## Tools used for accessibility testing
 
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
