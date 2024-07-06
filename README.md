@@ -3,11 +3,10 @@
 Accessibility testing is a type of software testing performed to ensure that websites, applications, and digital content are usable by people with a wide range of disabilities. This includes visual, auditory, physical, speech, cognitive, and neurological disabilities. The goal of accessibility testing is to identify and resolve barriers that might prevent people with disabilities from accessing or using digital products effectively.
 
 # Content
-- ### [Tools used for accessibility testing]()
-- ### [Checklists]()
-- ### [Fundamental documents]()
-- ### [Local regulations]()
-- ### [The largest web accessibility lawsuits]()
+- ### [Tools used for accessibility testing](https://github.com/DariaMartinovskaya/Accessibility_testing?tab=readme-ov-file#tools-used-for-accessibility-testing-1)
+- ### [Checklists](https://github.com/DariaMartinovskaya/Accessibility_testing?tab=readme-ov-file#checklists-1)
+- ### [Fundamental documents](https://github.com/DariaMartinovskaya/Accessibility_testing?tab=readme-ov-file#fundamental-documents-1)
+- ### [The largest web accessibility lawsuits](https://github.com/DariaMartinovskaya/Accessibility_testing?tab=readme-ov-file#the-largest-web-accessibility-lawsuits-1)
 
 ## Tools used for accessibility testing
 
